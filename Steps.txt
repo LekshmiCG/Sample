@@ -9,3 +9,5 @@ Coding
 Testing
 
 Deploying
+
+check log
